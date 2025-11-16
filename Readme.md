@@ -1,6 +1,6 @@
-# Full Image Processing Pipeline!
+# Image Processing Pipeline
 
-A **production-ready CLI tool** for upscaling images using event_chains, with full I/O support for real image files
+A **CLI tool** for upscaling images using event_chains, with full I/O support for real image files
 ### Supports ###
 - PNG
 - JPEG
@@ -214,7 +214,7 @@ Done!
 └─────────────────────────────────────────────────────────┘
 ```
 
-**You get all this for FREE:**
+**You get all of this for FREE due to negative overhead scaling:**
 - Automatic timing
 - Complete logging
 - Metrics collection
