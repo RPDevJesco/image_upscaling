@@ -1,6 +1,4 @@
-# 🎉 CLI Tool Complete - Full Image Processing Pipeline!
-
-## What We Just Added
+# Full Image Processing Pipeline!
 
 A **production-ready CLI tool** for upscaling images using event_chains, with full I/O support for real image files
 ### Supports ###
